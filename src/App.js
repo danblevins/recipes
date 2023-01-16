@@ -34,7 +34,7 @@ const App = () => {
                 <input className="search-bar" type="text" value={search} placeholder="⚠️ Search bar is currently inactive. ⚠️" onChange={updateSearch} />
                 <button className="search-button" type="Submit">search</button>
             </form>
-            <p>Made by&nbsp;<a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Dan Blevins</a>. View on&nbsp;<a href="" target="_blank">GitHub</a>.</p>
+            <p>Made by&nbsp;<a href="https://www.linkedin.com/in/dan-blevins/" target="_blank">Dan Blevins</a>. View on&nbsp;<a href="https://github.com/danblevins/recipes" target="_blank">GitHub</a>.</p>
             <div className="recipes">
                 {recipes.map(recipe => (
                     <Recipe
