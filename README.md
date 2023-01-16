@@ -1,4 +1,4 @@
-# [Recipes](https://dan-recipes.surge.sh/)
+# 🍴[Recipes](https://dan-recipes.surge.sh/)
 
 ## About this Project
 
