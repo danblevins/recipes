@@ -1,0 +1,220 @@
+{
+    "recipes": [
+        {
+            "label": "Channa Masala Tomato Soup",
+            "serves": "4",
+            "time": "10 mins",
+            "ingredientsList": [
+                {
+                    "text": "1 package TJ's Organic Low Sodium Tomato & Roasted Red Pepper Soup"
+                },
+                {
+                    "text": "2 packages TJ's Channa Masala"
+                },
+                {
+                    "text": "TJ's Greek Yogurt or Sour Cream and chopped parsley, for garnish (optional)"
+                },
+                {
+                    "text": "TJ's Malabari Paratha, cooked according to package directions, for dipping (optional)"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/channa-masala-tomato-soup",
+            "image": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg"
+        },
+        {
+            "label": "Chicken Sausage & Lentil Soup",
+            "serves": "6",
+            "time": "45 mins",
+            "ingredientsList": [
+                {
+                    "text": "2 tablespoons TJ's Olive Oil"
+                },
+                {
+                    "text": "1 TJ's Yellow Onion, diced"
+                },
+                {
+                    "text": "2 TJ's Zucchini, chopped"
+                },
+                {
+                    "text": "1 can (14 oz) TJ's Diced Tomatoes"
+                },
+                {
+                    "text": "1 package TJ's Fully Cooked Garlic & Herb Chicken Sausage, sliced into coins"
+                },
+                {
+                    "text": "1 cup TJ's Small Whole Green Lentils, rinsed and drained"
+                },
+                {
+                    "text": "1 package TJ's Organic Free Range Chicken Stock"
+                },
+                {
+                    "text": "TJ's Salt & Pepper, to taste"
+                },
+                {
+                    "text": "TJ's Grated Parmesan, lemon & chopped fresh herbs for garnish (optional)"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/chicken-sausage-lentil-soup",
+            "image": "https://www.therusticfoodie.com/wp-content/uploads/2021/09/Healthy-Lentil-Sausage-Kale-Soup-Recipe-featured.jpg"
+        },
+        {
+            "label": "Cowboy Quinoa Bake",
+            "serves": "4",
+            "time": "45 mins",
+            "ingredientsList": [
+                {
+                    "text": "1 cup Trader Joe's Organic Multicolor Quinoa, dry"
+                },
+                {
+                    "text": "1 jar TJ's Cowboy Caviar Salsa"
+                },
+                {
+                    "text": "1 can TJ's Organic Diced No Salt Added Tomatoes"
+                },
+                {
+                    "text": "1 cup TJ's Mexican Blend Shredded Cheese"
+                },
+                {
+                    "text": "Organic Spanish Extra Virgin Olive Oil Spray, to grease pan"
+                },
+                {
+                    "text": "TJ's Sour Cream and Fresh Cilantro, for garnish (optional)"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/cowboy-quinoa-bake",
+            "image": "https://www.contentednesscooking.com/wp-content/uploads/2018/12/Cowboy-Caviar-Quinoa-Salad-9.jpg"
+        },
+        {
+            "label": "Creamy Chicken Gnocchi Soup",
+            "serves": "4-6",
+            "time": "10 mins",
+            "ingredientsList": [
+                {
+                    "text": "2 tubs TJ's Kettle Cooked Chicken Soup"
+                },
+                {
+                    "text": "1 package Gnocchi (shelf-stable)"
+                },
+                {
+                    "text": "1 package TJ's Whipping Cream (shelf-stable)"
+                },
+                {
+                    "text": "TJ's Fresh Thyme, for garnish (optional)"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/creamy-chicken-gnocchi-soup",
+            "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Creamy-Chicken-Gnocchi-Soup_EXPS_SSMZ18_55269_D03_09_2b.jpg"
+        },
+        {
+            "label": "Double Peanut Stew",
+            "serves": "4-6",
+            "time": "1 hr",
+            "ingredientsList": [
+                {
+                    "text": "3 tablespoons TJ’s Canola Oil"
+                },
+                {
+                    "text": "1 medium-sized TJ’s Yellow Onion, chopped"
+                },
+                {
+                    "text": "2 tablespoons peeled and minced TJ’s Organic Fresh Ginger"
+                },
+                {
+                    "text": "2 tablespoons minced TJ’s Garlic"
+                },
+                {
+                    "text": "½ teaspoon TJ’s Cayenne"
+                },
+                {
+                    "text": "TJ’s Sea Salt"
+                },
+                {
+                    "text": "½ teaspoon TJ’s Pepper"
+                },
+                {
+                    "text": "½ cup TJ’s Tomato Paste"
+                },
+                {
+                    "text": "1 TJ’s Sweet Potato, peeled & cubed"
+                },
+                {
+                    "text": "1 carton or 4 cups TJ’s Low Sodium Vegetable Broth"
+                },
+                {
+                    "text": "½ cup TJ’s Creamy Salted Peanut Butter"
+                },
+                {
+                    "text": "4 cups TJ’s Shredded Kale"
+                },
+                {
+                    "text": "½ cup TJ’s Half Salt Peanuts, chopped"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/double-peanut-stew",
+            "image": "https://www.cottercrunch.com/wp-content/uploads/2020/08/African-peanut-stew-with-meat-IP-option-6.jpg"
+        },
+        {
+            "label": "Green Goddess Veggie Bowl",
+            "serves": "3-4",
+            "time": "40 mins",
+            "ingredientsList": [
+                {
+                    "text": "2 cups TJ’s Organic White Quinoa, cooked according to the package instruction"
+                },
+                {
+                    "text": "1 can TJ’s Greek Chickpeas with Parsley & Cumin"
+                },
+                {
+                    "text": "3 tablespoons TJ’s Olive Oil"
+                },
+                {
+                    "text": "1 TJ’s Sweet Potato, diced"
+                },
+                {
+                    "text": "1 cup TJ’s Organic Spinach"
+                },
+                {
+                    "text": "½ cup TJ’s Green Goddess Dressing"
+                },
+                {
+                    "text": "1/3 cup TJ’s Organic Crumbled Feta"
+                },
+                {
+                    "text": "½ cup TJ’s Raw Slivered Almonds"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/green-goddess-veggie-bowl",
+            "image": "https://choosingchia.com/jessh-jessh/uploads/2020/03/Quinoa-power-bowls-2.jpg"
+        },
+        {
+            "label": "Smoked Salmon Poke-Style Bowl",
+            "serves": "3-4",
+            "time": "40 mins",
+            "ingredientsList": [
+                {
+                    "text": "2 cups TJ’s Calrose Rice, cooked according to package instructions"
+                },
+                {
+                    "text": "1 package TJ’s Everything but the Bagel Seasoned Smoked Salmon"
+                },
+                {
+                    "text": "2 TJ’s Persian Cucumbers, cut into thin medallions"
+                },
+                {
+                    "text": "¼ package TJ’s Shredded Carrots"
+                },
+                {
+                    "text": "1 TJ’s Avocado, sliced"
+                },
+                {
+                    "text": "4 sheets Organic TJ’s Roasted Seaweed, cut into bite-size strips"
+                },
+                {
+                    "text": "TJ’s Green Dragon Hot Sauce, for drizzling"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/smoked-salmon-bowl",
+            "image": "https://www.jessicagavin.com/wp-content/uploads/2016/06/spicy-sockeye-salmon-poke-bowl-with-sriracha-aioli.jpg"
+        }
+    ]
+}
