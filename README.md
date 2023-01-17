@@ -2,7 +2,7 @@
 
 ## About this Project
 
-Take a look at all the meals I've made in 2023.
+Take a look at the recipes I've made in 2023.
 
 For more information visit: https://dan-recipes.surge.sh/
 
