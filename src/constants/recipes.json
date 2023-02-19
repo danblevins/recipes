@@ -1,9 +1,75 @@
 {
     "recipes": [
         {
+            "label": "Buffalo Fig Burger",
+            "serves": "6",
+            "time": "30 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "2 packages TJ's Ground Buffalo Burgers, thawed according to package directions"
+                },
+                {
+                    "text": "TJ's Sea Salt & Pepper"
+                },
+                {
+                    "text": "6 TJ's Brioche Buns"
+                },
+                {
+                    "text": "TJ's Goat Cheese Crumbles"
+                },
+                {
+                    "text": "1 TJ's Beefsteak Tomato"
+                },
+                {
+                    "text": "1/2 TJ's Red Onion, thinly sliced"
+                },
+                {
+                    "text": "TJ's Organic Arugula"
+                },
+                {
+                    "text": "TJ's Fig Butter"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/buffalo-fig-burger",
+            "image": "https://images.squarespace-cdn.com/content/v1/5f065d6b0bfb5a47f4666768/d7ed67a0-8904-4db4-911c-180463084bad/IMG_7543.jpg"
+        },
+        {
+            "label": "Carnitas Bowl",
+            "serves": "4",
+            "time": "10 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "1 package TJ's Fully Cooked Traditional Carnitas"
+                },
+                {
+                    "text": "Organic Jasmine Rice"
+                },
+                {
+                    "text": "1 can TJ's Organic Black Beans, rinsed and drained"
+                },
+                {
+                    "text": "TJ's Pico de Gallo"
+                },
+                {
+                    "text": "TJ's Avocado's Number Guacamole"
+                },
+                {
+                    "text": "TJ's Jalapeño Sauce"
+                },
+                {
+                    "text": "TJ's Fresh Cilantro, sliced Jalapeno, and sliced Lime, for garnish (optional)"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/carnitas-bowl",
+            "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/05/Carnitas-Burrito-Bowl-Chipotle-Copycat-2.jpg"
+        },
+        {
             "label": "Channa Masala Tomato Soup",
             "serves": "4",
             "time": "10 mins",
+            "favorite": "N",
             "ingredientsList": [
                 {
                     "text": "1 package TJ's Organic Low Sodium Tomato & Roasted Red Pepper Soup"
@@ -22,9 +88,10 @@
             "image": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg"
         },
         {
-            "label": "Chicken Sausage & Lentil Soup",
+            "label": "Chicken Sausage and Lentil Soup",
             "serves": "6",
             "time": "45 mins",
+            "favorite": "Y",
             "ingredientsList": [
                 {
                     "text": "2 tablespoons TJ's Olive Oil"
@@ -61,6 +128,7 @@
             "label": "Cowboy Quinoa Bake",
             "serves": "4",
             "time": "45 mins",
+            "favorite": "Y",
             "ingredientsList": [
                 {
                     "text": "1 cup Trader Joe's Organic Multicolor Quinoa, dry"
@@ -88,6 +156,7 @@
             "label": "Creamy Chicken Gnocchi Soup",
             "serves": "4-6",
             "time": "10 mins",
+            "favorite": "N",
             "ingredientsList": [
                 {
                     "text": "2 tubs TJ's Kettle Cooked Chicken Soup"
@@ -106,9 +175,41 @@
             "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Creamy-Chicken-Gnocchi-Soup_EXPS_SSMZ18_55269_D03_09_2b.jpg"
         },
         {
+            "label": "Double Elote Crispy Chicken Tenders",
+            "serves": "4-6",
+            "time": "25 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "1 bag Organic Elote Corn Chip Dippers"
+                },
+                {
+                    "text": "1/4 cup TJ's Unbleached Enriched All-Purpose Flour"
+                },
+                {
+                    "text": "1/4 cup TJ's Everything But The Elote Seasoning Blend"
+                },
+                {
+                    "text": "3 large TJ's Eggs, whisked"
+                },
+                {
+                    "text": "2 package TJ's Organic Boneless & Skinless Chicken Tenders"
+                },
+                {
+                    "text": "TJ's Canola Oil Spray"
+                },
+                {
+                    "text": "Your favorite TJ's sauce for dipping"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/double-elote-crispy-chicken-tenders",
+            "image": "https://preview.redd.it/9cvgj82e7z451.jpg?auto=webp&s=f42bca720bab4a78226501b8eda61f190bd0aa8d"
+        },
+        {
             "label": "Double Peanut Stew",
             "serves": "4-6",
             "time": "1 hr",
+            "favorite": "Y",
             "ingredientsList": [
                 {
                     "text": "3 tablespoons TJ’s Canola Oil"
@@ -154,9 +255,47 @@
             "image": "https://www.cottercrunch.com/wp-content/uploads/2020/08/African-peanut-stew-with-meat-IP-option-6.jpg"
         },
         {
+            "label": "Full of Fusilli Veggie Soup",
+            "serves": "4",
+            "time": "40 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "½ package TJ’s Organic Fusilli Corti Bucati"
+                },
+                {
+                    "text": "2 tablespoons of your favorite TJ’s olive oil"
+                },
+                {
+                    "text": "1 small TJ’s yellow onion, finely chopped"
+                },
+                {
+                    "text": "4 cloves TJ’s garlic, peeled and finely chopped"
+                },
+                {
+                    "text": "5 TJ’s whole carrots, peeled and medium chopped"
+                },
+                {
+                    "text": "3 TJ’s celery, medium chopped"
+                },
+                {
+                    "text": "½ jar TJ’s Fire Roasted Bell Peppers, drained and medium chopped"
+                },
+                {
+                    "text": "1 carton TJ’s Organic Low Sodium Vegetable Broth"
+                },
+                {
+                    "text": "½ TJ’s Lemon"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/full-of-fusilli-veggie-soup",
+            "image": "https://feelgoodfoodie.net/wp-content/uploads/2017/10/Chickpea-Noodle-Soup-6-500x500.jpg"
+        },
+        {
             "label": "Green Goddess Veggie Bowl",
             "serves": "3-4",
             "time": "40 mins",
+            "favorite": "Y",
             "ingredientsList": [
                 {
                     "text": "2 cups TJ’s Organic White Quinoa, cooked according to the package instruction"
@@ -187,9 +326,35 @@
             "image": "https://choosingchia.com/jessh-jessh/uploads/2020/03/Quinoa-power-bowls-2.jpg"
         },
         {
+            "label": "Meatless Meatball BBQ Subs",
+            "serves": "6-8",
+            "time": "15 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "2 bags TJ's Meatless Meatballs"
+                },
+                {
+                    "text": "1 bottle TJ's Organic Kansas City Style BBQ Sauce"
+                },
+                {
+                    "text": "1 package TJ's Gourmet White Hot Dog Buns"
+                },
+                {
+                    "text": "1 package TJ's Sliced Provolone"
+                },
+                {
+                    "text": "1/2 TJ's Red Onion, diced"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/meatless-meatball-bbq-subs",
+            "image": "https://www.hummusapien.com/wp-content/uploads/2016/05/bean_balls7.jpeg"
+        },
+        {
             "label": "Smoked Salmon Poke-Style Bowl",
             "serves": "3-4",
             "time": "40 mins",
+            "favorite": "N",
             "ingredientsList": [
                 {
                     "text": "2 cups TJ’s Calrose Rice, cooked according to package instructions"
@@ -215,6 +380,77 @@
             ],
             "url": "https://www.traderjoes.com/home/recipes/smoked-salmon-bowl",
             "image": "https://www.jessicagavin.com/wp-content/uploads/2016/06/spicy-sockeye-salmon-poke-bowl-with-sriracha-aioli.jpg"
+        },
+        {
+            "label": "Soffritto Beans",
+            "serves": "6",
+            "time": "25 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "1 1/2 tablespoons your favorite TJ's Olive Oil"
+                },
+                {
+                    "text": "1 1/2 tablespoons TJ's Italian Style Soffritto Seasoning Blend"
+                },
+                {
+                    "text": "2 handfuls Organic Shredded Kale, chopped"
+                },
+                {
+                    "text": "1 can TJ's Diced Tomatoes"
+                },
+                {
+                    "text": "2 cans TJ's Organic Great Northern Beans, drained"
+                },
+                {
+                    "text": "Juice of 1 wedge of TJ's Lemon"
+                },
+                {
+                    "text": "2 cups TJ's Shredded Mozzarella Cheese"
+                },
+                {
+                    "text": "1 bag TJs Organic French Rolls, heated or toasted to your preference"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/soffritto-beans",
+            "image": "https://www.thekitchenwitchblog.com/wp-content/uploads/2012/02/Sofrito-with-Beans-and-Rice_013112_0032.jpg"
+        },
+        {
+            "label": "Spicy Shrimp Slaw",
+            "serves": "2-3",
+            "time": "25 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "1 cup plus 1/4 cup TJ's Organic Sriracha & Roasted Garlic BBQ Sauce"
+                },
+                {
+                    "text": "1/4 cup TJ's Plain Whole Milk Greek Yogurt"
+                },
+                {
+                    "text": "2 tablespoons TJ's Organic Apple Cider Vinegar"
+                },
+                {
+                    "text": "1 bag TJ's Organic Shredded Green & Red Cabbage with Orange Carrots"
+                },
+                {
+                    "text": "1/2 bunch TJ's Cilantro, chopped"
+                },
+                {
+                    "text": "2 tablespoons TJ's Coconut Oil, divided"
+                },
+                {
+                    "text": "1/2 bag TJ's Mango Chunks, thawed"
+                },
+                {
+                    "text": "1 bag TJ's Uncooked Wild Argentinian Red Shrimp, thawed"
+                },
+                {
+                    "text": "TJ's Pepitas or Sunflower Seeds, for garnish"
+                }
+            ],
+            "url": "https://www.traderjoes.com/home/recipes/spicy-shrimp-slaw",
+            "image": "https://cleanfoodiecravings.com/wp-content/uploads/2022/07/broccoli-slaw-with-spicy-shrimp-3-scaled-1-683x1024.jpg"
         }
     ]
 }
