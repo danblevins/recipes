@@ -1,6 +1,68 @@
 {
     "recipes": [
         {
+            "label": "BBQ Chicken Wraps",
+            "serves": "3-4",
+            "time": "20 mins",
+            "favorite": "Y",
+            "ingredientsList": [
+                {
+                    "text": "1 bag TJ's Frozen Chicken Breast Nuggets"
+                },
+                {
+                    "text": "1 bag TJ's Organic Coleslaw Kit"
+                },
+                {
+                    "text": "1 jar TJ's Carolina Gold BBQ Sauce"
+                },
+                {
+                    "text": "Flour Tortillas"
+                },
+                {
+                    "text": "Avocado, optional"
+                },
+                {
+                    "text": "Tomatoes, optional"
+                },
+                {
+                    "text": "Jalapenos, optional"
+                },
+                {
+                    "text": "Cheese, optional"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://www.dontgobaconmyheart.co.uk/wp-content/uploads/2019/06/bbq-chicken-wrap.jpg"
+        },
+        {
+            "label": "Boursin Cheese Pasta",
+            "serves": "4-6",
+            "time": "30 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "1 pound Rigatoni Noodles"
+                },
+                {
+                    "text": "1 pound Ground Beef or Ground Turkey"
+                },
+                {
+                    "text": "5.2oz Boursin garlic and herb cheese"
+                },
+                {
+                    "text": "1 Jar TJ's Marinara Sauce"
+                },
+                {
+                    "text": "Salt and Pepper to taste"
+                },
+                {
+                    "text": "Parmesan Cheese"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://www.lovefromtheoven.com/wp-content/uploads/2023/02/Boursin-Pasta-15.jpg"
+        },
+        {
             "label": "Buffalo Fig Burger",
             "serves": "6",
             "time": "30 mins",
@@ -88,6 +150,31 @@
             "image": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg"
         },
         {
+            "label": "Chicken Caesar Wraps",
+            "serves": "2-3",
+            "time": "25 mins",
+            "favorite": "Y",
+            "ingredientsList": [
+                {
+                    "text": "1 bag TJ's Frozen Chicken Breast Nuggets"
+                },
+                {
+                    "text": "1 bag TJ's Caesar Salad"
+                },
+                {
+                    "text": "Flour Tortillas"
+                },
+                {
+                    "text": "Avocado"
+                },
+                {
+                    "text": "Fresh, cracked pepper"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/08/Chicken-Caesar-Wraps-14.jpg"
+        },
+        {
             "label": "Chicken Sausage and Lentil Soup",
             "serves": "6",
             "time": "45 mins",
@@ -131,7 +218,7 @@
             "favorite": "Y",
             "ingredientsList": [
                 {
-                    "text": "1 cup Trader Joe's Organic Multicolor Quinoa, dry"
+                    "text": "1 cup TJ's Organic Multicolor Quinoa, dry"
                 },
                 {
                     "text": "1 jar TJ's Cowboy Caviar Salsa"
@@ -175,6 +262,71 @@
             "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Creamy-Chicken-Gnocchi-Soup_EXPS_SSMZ18_55269_D03_09_2b.jpg"
         },
         {
+            "label": "Creamy Dill Salad",
+            "serves": "3-4",
+            "time": "10 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "4-5 cups Romaine Lettuce"
+                },
+                {
+                    "text": "TJ's Vegan Creamy Dill Dressing"
+                },
+                {
+                    "text": "1/3 cups Dried Salami"
+                },
+                {
+                    "text": "1/2 Red Onion, thinly sliced"
+                },
+                {
+                    "text": "1 tbsp Olive Oil"
+                },
+                {
+                    "text": "1 Avocado, diced"
+                },
+                {
+                    "text": "1/4 cup Sunflower Seeds"
+                },
+                {
+                    "text": "1/4 cup grated Parmesan Cheese"
+                },
+                {
+                    "text": "Salt, to taste"
+                },
+                {
+                    "text": "Fresh cracked pepper, to taste"
+                },
+                {
+                    "text": "1-2 tbsp Fresh Dill, optional"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://i.imgur.com/vErunKK.jpeg"
+        },
+        {
+            "label": "Creamy Everything Bites",
+            "serves": "4-6",
+            "time": "15 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "2 8oz cans TJ's Organic Crescent Rolls or Pillsbury Crescent Rolls"
+                },
+                {
+                    "text": "1 8oz pack TJ's Red Bell Pepper, Garlic, and Parmesan Cream Cheese Spread or Plain Cream Cheese"
+                },
+                {
+                    "text": "1 - 2 tbsp butter, melted"
+                },
+                {
+                    "text": "Everything but the Bagel Seasoning"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://i.imgur.com/C874VMa.jpeg"
+        },
+        {
             "label": "Double Elote Crispy Chicken Tenders",
             "serves": "4-6",
             "time": "25 mins",
@@ -209,7 +361,7 @@
             "label": "Double Peanut Stew",
             "serves": "4-6",
             "time": "1 hr",
-            "favorite": "Y",
+            "favorite": "N",
             "ingredientsList": [
                 {
                     "text": "3 tablespoons TJ’s Canola Oil"
@@ -351,6 +503,71 @@
             "image": "https://www.hummusapien.com/wp-content/uploads/2016/05/bean_balls7.jpeg"
         },
         {
+            "label": "Mexican Chicken Slowcook",
+            "serves": "3-4",
+            "time": "3-4 hours",
+            "favorite": "Y",
+            "ingredientsList": [
+                {
+                    "text": "1 pound boneless, skinless chicken"
+                },
+                {
+                    "text": "1 jar TJ's Cowboy Caviar Salsa"
+                },
+                {
+                    "text": "1 can diced & fire roasted tomatoes with green chiles"
+                },
+                {
+                    "text": "1 cup TJ's Mexican Blend Shredded Cheese"
+                },
+                {
+                    "text": "TJ's Sour Cream, Salsa, and Fresh Cilantro, for garnish (optional)"
+                }
+            ],
+            "url": "https://www.instagram.com/traderjoes5itemsorless/",
+            "image": "https://www.thecookierookie.com/wp-content/uploads/2022/04/Crockpot-Mexican-Shredded-Chicken-1.jpg"
+        },
+        {
+            "label": "Orzo Pasta Bake",
+            "serves": "3-4",
+            "time": "45 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "2 cups Orzo"
+                },
+                {
+                    "text": "1/2 cup sun dried tomatoes (chopped)"
+                },
+                {
+                    "text": "5.2oz Boursin garlic and herb cheese"
+                },
+                {
+                    "text": "4 cups chicken broth"
+                },
+                {
+                    "text": "1 tbsp minced garlic"
+                },
+                {
+                    "text": "Add oregano and red pepper flakes"
+                },
+                {
+                    "text": "2 cups spinach"
+                },
+                {
+                    "text": "1/2 cup heavy cream (optional)"
+                },
+                {
+                    "text": "Parmesan chece for topping (optional)"
+                },
+                {
+                    "text": "Protein of your choice (optional)"
+                }
+            ],
+            "url": "https://www.instagram.com/dosmacs/",
+            "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/09/One-Pan-Tomato-Basil-Baked-Orzo-6.jpg"
+        },
+        {
             "label": "Smoked Salmon Poke-Style Bowl",
             "serves": "3-4",
             "time": "40 mins",
@@ -416,6 +633,28 @@
             "image": "https://www.thekitchenwitchblog.com/wp-content/uploads/2012/02/Sofrito-with-Beans-and-Rice_013112_0032.jpg"
         },
         {
+            "label": "Spicy Italian Chicken with Tortellini and Spinach",
+            "serves": "3-4",
+            "time": "20 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "Tortellini"
+                },
+                {
+                    "text": "Spicy Italian Chicken Sausage"
+                },
+                {
+                    "text": "Spinach"
+                },
+                {
+                    "text": "Garlic & Asiago Cheese Dip"
+                }
+            ],
+            "url": "https://www.instagram.com/traderjoes5itemsorless/",
+            "image": "https://www.thereciperebel.com/wp-content/uploads/2022/05/italian-chicken-tortellini-TRR-1200-14-of-32.jpg"
+        },
+        {
             "label": "Spicy Shrimp Slaw",
             "serves": "2-3",
             "time": "25 mins",
@@ -451,6 +690,59 @@
             ],
             "url": "https://www.traderjoes.com/home/recipes/spicy-shrimp-slaw",
             "image": "https://cleanfoodiecravings.com/wp-content/uploads/2022/07/broccoli-slaw-with-spicy-shrimp-3-scaled-1-683x1024.jpg"
+        },
+        {
+            "label": "Sweet Chocolate Crescent Bites",
+            "serves": "4-6",
+            "time": "15 mins",
+            "favorite": "N",
+            "ingredientsList": [
+                {
+                    "text": "2 8oz cans TJ's Organic Crescent Rolls or Pillsbury Crescent Rolls"
+                },
+                {
+                    "text": "TJ's Cocoa Almond Spread"
+                },
+                {
+                    "text": "Powdered Sugar, for garnish"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://i.imgur.com/M1wIq9X.jpeg"
+        },
+        {
+            "label": "Sweet Sesame Noodles",
+            "serves": "4-6",
+            "time": "30 mins",
+            "favorite": "Y",
+            "ingredientsList": [
+                {
+                    "text": "1 pound thinly sliced boneless, skinless chicken breast"
+                },
+                {
+                    "text": "1 cup Bok Choy, sliced"
+                },
+                {
+                    "text": "2 packs TJ's Squiggly Kinfe Cut Noodles"
+                },
+                {
+                    "text": "1/2 cup TJ's Soyaki Sauce"
+                },
+                {
+                    "text": "1-2 tsp TJ's Crunchy Chili Onion"
+                },
+                {
+                    "text": "Green Onions for garnish"
+                },
+                {
+                    "text": "Sesame Seeds for garnish"
+                },
+                {
+                    "text": "1 tbsp Olive Oil"
+                }
+            ],
+            "url": "https://www.instagram.com/the_hungry_hooker/",
+            "image": "https://static1.squarespace.com/static/60d4e6d39ab0724105067356/63b591e2198b4f1b06c265e6/64dbdc54b1c9901ac5f1c7a3/1692130474402/IMG_9262.JPG?format=1500w"
         }
     ]
 }
